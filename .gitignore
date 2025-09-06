@@ -1,0 +1,7 @@
+# 忽略虚拟环境
+venv1/
+
+# 忽略测试用的合同
+Demo_Source/
+
+testocr.py
